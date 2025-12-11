@@ -3,7 +3,7 @@ def test_employee_details():
     name = "Alice"
     emp_id = "E1001"
     department = "IT"
-    salary = 50000
+    salary = 55000
     expected_output = (
         "Employee Name: Alice\n"
         "Employee ID: E1001\n"
